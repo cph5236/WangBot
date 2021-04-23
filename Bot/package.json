@@ -1,0 +1,11 @@
+{
+  "name": "WenLiWangBot",
+  "version": "1.0.0",
+  "description": "I Teach at Behrend",
+  "main": "bot.js",
+  "author": "Wen Li Wang",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
